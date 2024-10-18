@@ -14,7 +14,7 @@ C++ / Java. First time learning them, and since I'm a lazy coder, it might take 
 Open source video games. I can code with Python, Javascript, and GDScript. If you're developing an open source game and need someone to find bugs or add a cool new feature, don't hesitate to contact me. I don't need any wages at all; isn't that a huge plus, xaxa.
 
 - 🤔 I’m looking for help with ...
-My open source civbuilder game. Nobody's going to pay attention, but I'm planning to make the simulator until middle ages. If possible, I'd like to make multiplayer in that game to battle other players, just like clash of clans or something.
+My open source civbuilder game. Nobody's going to pay attention, but I'm planning to make the simulator until middle ages level technology in-game. If possible, I'd like to make multiplayer in that game to battle other players, just like clash of clans or something.
 
 - 💬 Ask me about ...
 Anything. Whatever you want. Just remember that a foolish question will be replied by a foolish answer.
