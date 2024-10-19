@@ -28,6 +28,6 @@ He/him. Questions?
   
 - ⚡ Fun fact: ...
 I have to study for midterms for now; isn't that delightful?
-OK, for real **FUN** stuffs... well... I play boardgames and videogames. I also play warhammer 40k, though nobody plays it nearby me.
+OK, for real **FUN** stuffs... well...
 I code, I read, I procrastinate assignments... the usual.
 Oh, finally, I'm really good at smashing and completely destroying imperialist code. XD
